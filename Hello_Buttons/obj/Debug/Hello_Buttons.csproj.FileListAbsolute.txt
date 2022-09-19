@@ -1,0 +1,30 @@
+D:\Projects\Hello_WinForms_stud\Hello_Buttons\bin\Debug\Hello_WinForms.exe.config
+D:\Projects\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_WinForms.exe
+D:\Projects\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_WinForms.pdb
+D:\Projects\Hello_WinForms_stud\Hello_Buttons\bin\Debug\Hello_WinForms.exe
+D:\Projects\Hello_WinForms_stud\Hello_Buttons\bin\Debug\Hello_WinForms.pdb
+D:\Projects\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_WinForms.Form1.resources
+D:\Projects\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_WinForms.Form2.resources
+D:\Projects\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_WinForms.Properties.Resources.resources
+D:\Projects\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_Buttons.csproj.GenerateResource.Cache
+D:\Projects\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_WinForms.Form3.resources
+D:\Projects\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_WinForms.Form4.resources
+D:\Projects\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_Buttons.csprojResolveAssemblyReference.cache
+D:\Projects\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_WinForms.Form5.resources
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_WinForms_stud\Hello_Buttons\bin\Debug\Hello_WinForms.exe.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_WinForms.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_WinForms.pdb
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.1\(begin)Hello_WinForms_stud\Hello_WinForms_stud\Hello_Buttons\bin\Debug\Hello_WinForms.exe.config
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.1\(begin)Hello_WinForms_stud\Hello_WinForms_stud\Hello_Buttons\bin\Debug\Hello_WinForms.exe
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.1\(begin)Hello_WinForms_stud\Hello_WinForms_stud\Hello_Buttons\bin\Debug\Hello_WinForms.pdb
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.1\(begin)Hello_WinForms_stud\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_Buttons.csproj.AssemblyReference.cache
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.1\(begin)Hello_WinForms_stud\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_WinForms.Form1.resources
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.1\(begin)Hello_WinForms_stud\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_WinForms.Form2.resources
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.1\(begin)Hello_WinForms_stud\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_WinForms.Form3.resources
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.1\(begin)Hello_WinForms_stud\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_WinForms.Form4.resources
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.1\(begin)Hello_WinForms_stud\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_WinForms.Form5.resources
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.1\(begin)Hello_WinForms_stud\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_WinForms.Properties.Resources.resources
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.1\(begin)Hello_WinForms_stud\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_Buttons.csproj.GenerateResource.cache
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.1\(begin)Hello_WinForms_stud\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_Buttons.csproj.CoreCompileInputs.cache
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.1\(begin)Hello_WinForms_stud\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_WinForms.exe
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.1\(begin)Hello_WinForms_stud\Hello_WinForms_stud\Hello_Buttons\obj\Debug\Hello_WinForms.pdb

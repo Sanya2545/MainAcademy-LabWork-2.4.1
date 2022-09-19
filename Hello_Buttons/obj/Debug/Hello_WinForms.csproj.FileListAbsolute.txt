@@ -1,0 +1,9 @@
+D:\Projects\Hello_WinForms\Hello_WinForms\bin\Debug\Hello_WinForms.exe.config
+D:\Projects\Hello_WinForms\Hello_WinForms\bin\Debug\Hello_WinForms.exe
+D:\Projects\Hello_WinForms\Hello_WinForms\bin\Debug\Hello_WinForms.pdb
+D:\Projects\Hello_WinForms\Hello_WinForms\obj\Debug\Hello_WinForms.csprojResolveAssemblyReference.cache
+D:\Projects\Hello_WinForms\Hello_WinForms\obj\Debug\Hello_WinForms.Form1.resources
+D:\Projects\Hello_WinForms\Hello_WinForms\obj\Debug\Hello_WinForms.Properties.Resources.resources
+D:\Projects\Hello_WinForms\Hello_WinForms\obj\Debug\Hello_WinForms.csproj.GenerateResource.Cache
+D:\Projects\Hello_WinForms\Hello_WinForms\obj\Debug\Hello_WinForms.exe
+D:\Projects\Hello_WinForms\Hello_WinForms\obj\Debug\Hello_WinForms.pdb
